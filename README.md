@@ -17,9 +17,9 @@ I'm Bartosz! I'm a junior Frontend Developer🔰 looking to turn ideas 🧠 into
 
 ### :dart: Current challenges I'm taking on:
 
-- Learning to code:godmode: 2-3+ hours after class
+- Learning to code :godmode: 2-3+ hours after class
 - Read📖 12 books in 12 months
-- Workout:weight_lifting_man: 3 days a week and lost over 20kg
+- Workout 🏋️‍♂️ 3 days a week and lost over 20kg
 
 ### :hammer_and_wrench: Languages and Tools:
 
