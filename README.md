@@ -19,7 +19,7 @@ I'm Bartosz! I'm a junior Frontend Developer🔰 looking to turn ideas 🧠 into
 
 - Learning to code :godmode: 2-3+ hours after class
 - Read📖 12 books in 12 months
-- Workout 🏋️‍♂️ 3 days a week and lost over 20kg
+- Workout 🏋️‍♂️ 3 days a week 
 
 ### :hammer_and_wrench: Languages and Tools:
 
