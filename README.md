@@ -1,6 +1,6 @@
 # Hello! :wave:
 
-I'm Bartosz! I'm a junior Frontend Developer🔰 looking to turn ideas 🧠 into digital reality 🤖. I am passionate about software development💻 and love working with people!:heart_eyes: I am eager to gain more experience and learn new things! 👨‍🎓
+I'm Bartosz! I'm a junior Frontend Developer🔰 looking to turn ideas 🧠 into digital reality 🤖. I am passionate about software development💻 and love working with people! I am eager to gain more experience and learn new things! 👨‍🎓
 <br>
 
 **I love meeting new people**, so if you want to, **speak up!** :blush:
